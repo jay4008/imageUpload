@@ -4,6 +4,9 @@
     "rewardedAndroid": "ca-app-pub-9636536319913912/3320831398",
     "bannerIos" :"ca-app-pub-9636536319913912/7012267616",
     "interstitialIos":"ca-app-pub-9636536319913912/7892398158",
-    "rewardedIos":"ca-app-pub-9636536319913912/8411272909"
+    "rewardedIos":"ca-app-pub-9636536319913912/8411272909", 
+    "showBanner":true,
+    "showInterstitial":true,
+    "showRewarded": true
 }
 
