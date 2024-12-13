@@ -5,7 +5,7 @@
     "bannerIos" :"ca-app-pub-9636536319913912/7012267616",
     "interstitialIos":"ca-app-pub-9636536319913912/7892398158",
     "rewardedIos":"ca-app-pub-9636536319913912/8411272909", 
-    "showBanner":false,
+    "showBanner":true,
     "showInterstitial":true,
     "showRewarded": true
 }
