@@ -5,8 +5,10 @@
     "bannerIos" :"ca-app-pub-9636536319913912/7012267616",
     "interstitialIos":"ca-app-pub-9636536319913912/7892398158",
     "rewardedIos":"ca-app-pub-9636536319913912/8411272909", 
-    "showBanner":true,
+    "showBanner":false,
     "showInterstitial":true,
-    "showRewarded": true
+    "showRewarded": true, 
+    "androidFallback":"https://play.google.com/store/apps/details?id=com.resumebuildercv", 
+    "iosFallback":""
 }
 
