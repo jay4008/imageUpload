@@ -9,6 +9,7 @@
     "showInterstitial":true,
     "showRewarded": true, 
     "androidFallback":"https://play.google.com/store/apps/details?id=com.resumebuildercv", 
-    "iosFallback":"https://apps.apple.com/in/app/ats-resume-builder-cv-maker/id6737852868"
+    "iosFallback":"https://apps.apple.com/in/app/ats-resume-builder-cv-maker/id6737852868", 
+    "UnSupportedDevice":[]
 }
 
