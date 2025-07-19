@@ -6,8 +6,8 @@
     "interstitialIos":"ca-app-pub-9636536319913912/8998723932",
     "rewardedIos":"ca-app-pub-9636536319913912/4710031119", 
     "showBanner":false,
-    "showInterstitial":false,
-    "showRewarded": false, 
+    "showInterstitial":true,
+    "showRewarded": true, 
     "androidFallback":"https://play.google.com/store/apps/details?id=com.resumebuildercv", 
     "iosFallback":"https://apps.apple.com/in/app/ats-resume-builder-cv-maker/id6737852868", 
     "UnSupportedDevice":[]
