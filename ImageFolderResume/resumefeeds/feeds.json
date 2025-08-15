@@ -1,0 +1,110 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "username": "Jay Shah",
+            "heading":"ATS-Friendly Resume Tips Infographic" ,
+            "image": "1.png",
+            "desc": "An infographic presenting top strategies to make resumes ATS-compatible. The design features professional icons and clear visual sections—showcasing advice like using standard formatting, relevant keywords, and avoiding images or tables. The blue-and-white scheme and modern layout add to the professional look."
+        },
+        {
+            "id": 2,
+            "username": "Suraj Gupta",
+            "heading":"Dynamic Resume Builder App Interface" ,
+            "image": "2.png",
+            "desc": "A mockup of a mobile app interface for building dynamic resumes. The screen displays a step-by-step or customizable resume creation flow with vibrant gradients, friendly icons, and a clean, easy-to-navigate layout—encouraging users to tailor their resume for every application."
+        },
+        {
+            "id": 3,
+            "username": "Bijay Shakti singh",
+            "heading":"Resume Formatting Comparison: Good vs Bad" ,
+            "image": "3.png",
+            "desc": "A split-screen design showing effective vs ineffective resume layouts. The left side displays a clean, well-structured resume format, while the right highlights common mistakes such as clutter, inconsistent fonts, and excessive graphics. Visual cues help users recognize formatting best practices."
+        },
+        {
+            "id": 4,
+            "username": "Jay Shah",
+            "heading":"Resume Keyword Optimization Guide" ,
+            "image": "4.png",
+            "desc": "An infographic focused on resume keyword strategy, featuring a magnifying glass examining highlighted words within resume text. The professional design in teal and grey demonstrates the importance of matching job posting terms and including both technical and soft skills keywords."
+        },
+        {
+            "id": 5,
+            "username": "Jay Shah",
+            "heading":"Resume Customization & Tailoring Illustration" ,
+            "image": "5.png",
+            "desc": "An illustration showing multiple resume templates aimed at different job roles. The visual conveys the concept of customizing each resume for individual applications, using professional flat design elements and a modern, organized layout. It depicts the process of selecting and tailoring resume content per job target."
+        },
+        {
+            "id": 6,
+            "username": "Jay Shah",
+            "heading":"Use Quantifiable Achievements" ,
+            "image": "6.png",
+           "desc":"Replace vague statements with measurable results on your resume. Employers are drawn to accomplishments like “Increased sales by 25% in Q3” or “Managed a team of 10.” Quantifying impact shows clear value."
+        },
+        {
+            "id": 7,
+            "username": "Rupa shah",
+            "heading":"Highlight Relevant Soft Skills" ,
+            "image": "7.png",
+           "desc":"Don’t just list hard skills. Soft skills like teamwork, leadership, adaptability, and communication are highly sought after. Use real examples that demonstrate these qualities in previous roles."
+        },
+        {
+            "id": 8,
+            "username": "Sweety shaw",
+            "heading":"Keep Resume Length Just Right" ,
+            "image": "8.png",
+           "desc":"For most professionals, aim for one page (early career) or two pages (experienced). Cutting out outdated roles and redundant details ensures recruiters see your most impressive qualifications first."
+        },
+        {
+            "id": 9,
+            "username": "Sweety shaw",
+            "heading":"Craft a Strong Professional Summary" ,
+            "image": "9.png",
+           "desc":"Start your resume with a concise, impactful summary that highlights your key strengths and career goals. Tailor it for each job, focusing on what you can offer to that specific employer."
+        },
+        {
+            "id": 10,
+            "username": "Sweety shaw",
+            "heading":"Proofread for Errors" ,
+            "image": "10.png",
+           "desc":"Grammatical mistakes can cost you interviews. Review your resume multiple times, use spelling tools, and ask friends or mentors to catch any typos before submitting."
+        },
+        {
+            "id": 11,
+            "username": "Jay Shah",
+            "heading":"Use Active Language" ,
+            "image": "11.png",
+           "desc":"Start bullet points with strong action verbs: “Led,” “Developed,” “Designed,” “Improved.” Active language makes your experience sound more dynamic and engaging."
+        },
+        {
+            "id": 12,
+            "username": "Jay Shah",
+            "heading":"Showcase Certifications and Training" ,
+            "image": "12.png",
+           "desc":"Include professional licenses, relevant certifications, or ongoing training courses. These can set you apart and indicate your commitment to growth in your field."
+        }
+        ,
+        {
+            "id": 13,
+            "username": "Suraj Gupta",
+            "heading":"Include LinkedIn Profile or Online Portfolio" ,
+            "image": "13.png",
+           "desc":"Offer recruiters easy access to more about you by linking your LinkedIn, website, or online portfolio. Make sure your profiles are up-to-date and aligned with your resume."
+        },
+        {
+            "id": 14,
+            "username": "Rohit shaw",
+            "heading":"Customize Sections for Your Industry" ,
+            "image": "14.png",
+           "desc":"Certain fields value unique sections, like “Projects,” “Publications,” or “Technical Skills.” Layout your resume to highlight what matters most in your profession."
+        },
+        {
+            "id": 15,
+            "username": "Jay Shah",
+            "heading":"Update Regularly" ,
+            "image": "15.png",
+           "desc":"Regularly refresh your resume to reflect new skills, roles, and achievements. Keeping your resume current ensures you’re always interview-ready."
+        }
+    ]
+}
