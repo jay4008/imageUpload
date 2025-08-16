@@ -5,7 +5,7 @@
             "uri": "deeplink.png",
             "desc": "DeepLink Tester OpenURL is an innovative tool designed to streamline the process of testing and managing deep links. This versatile application offers a comprehensive suite of features to enhance your deep link testing experience: Open URLs in Browser: Quickly and effortlessly open any deep link in your preferred browser to ensure it functions as intended. This feature allows for seamless verification and testing of deep links across",
             "cta": "https://play.google.com/store/apps/details?id=com.deeplinkopenurltest",
-            "commingSoon": false , 
+            "commingSoon": false,
             "AdsOrPaid": "free and no ads"
         },
         {
@@ -14,7 +14,7 @@
             "desc": "Speech Assistant is designed to help individuals with speech impairments communicate effectively. Simply type text, and the app will convert it into clear speech using Text-to-Speech (TTS) technology. You can easily play the TTS output, add new text, and hear it instantly. Whether you need quick communication on the go or a reliable speech aid, this app provides an intuitive, accessible solution for everyday use.",
             "cta": "https://play.google.com/store/apps/details?id=com.speechimpaired",
             "commingSoon": false,
-             "AdsOrPaid": "free and no ads"
+            "AdsOrPaid": "free and no ads"
         },
         {
             "name": "ATS Resume Builder: CV Maker",
@@ -22,7 +22,7 @@
             "desc": "Create Job-Winning Resumes and Cover Letters in Minutes with Resume Builder, CV Maker App! Stand out from the crowd with professional resumes and cover letters crafted using Resume Builder, CV Maker App. With ATS-optimized templates, expert writing guidance, and advanced customization, you'll be ready to land more interviews and get hired faster!",
             "cta": "https://play.google.com/store/apps/details?id=com.resumebuildercv",
             "commingSoon": false,
-             "AdsOrPaid": "free with ads"
+            "AdsOrPaid": "free with ads"
         },
         {
             "name": "Resume Ocean: ATS CV Maker",
@@ -30,21 +30,25 @@
             "desc": "Craft Winning Resumes and Cover Letters in Minutes with Resume Builder CV Template AI! Resume Builder: Create 4800+ ATS-Friendly CVs & Professional Cover Letters Resume Builder CV Template AI is your ultimate tool for creating professional resumes and cover letters that help you land interviews and get hired. Stand out with ATS-friendly templates, advanced customization, and expert resume writing guidance.",
             "cta": "https://play.google.com/store/apps/details?id=template.cover.cv.resume",
             "commingSoon": false,
-              "AdsOrPaid": "free with ads"
+            "AdsOrPaid": "free with ads"
         },
         {
             "name": "Insta Interview",
             "uri": "interview.png",
             "desc": "🎯 Crack your IT interviews with confidence! Practice with real questions, AI feedback, and performance reports – all in one app. 🚀",
             "cta": "",
-            "commingSoon": true
+            "message": "Insta Interview is coming soon! Stay tuned for the launch.",
+            "commingSoon": true,
+            "AdsOrPaid": "free with ads"
         },
         {
             "name": "IndScanner App",
             "uri": "scanner.png",
             "desc": "📱 IndScanner – Your All-in-One PDF & Scan Solution! Convert images or notes to PDF, run continuous OCR scans, resize images, generate barcodes, and more – fast, easy, and on the go. 🚀",
             "cta": "",
-            "commingSoon": true
+            "message": "Insta Interview is coming soon! Stay tuned for the launch.",
+            "commingSoon": true,
+            "AdsOrPaid": "free and no ads"
         }
     ]
 }
