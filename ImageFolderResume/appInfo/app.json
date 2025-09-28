@@ -42,12 +42,12 @@
             "AdsOrPaid": "free with ads"
         },
         {
-            "name": "IndScanner App",
+            "name": "Scan Flow - Document Scanner",
             "uri": "scanner.png",
-            "desc": "📱 IndScanner – Your All-in-One PDF & Scan Solution! Convert images or notes to PDF, run continuous OCR scans, resize images, generate barcodes, and more – fast, easy, and on the go. 🚀",
-            "cta": "",
+            "desc": "📱 Scan Flow - Document Scanner – Your All-in-One PDF & Scan Solution! Convert images or notes to PDF, run continuous OCR scans, resize images, generate barcodes, and more – fast, easy, and on the go. 🚀",
+            "cta": "https://play.google.com/store/apps/details?id=com.indscanner",
             "message": "Insta Interview is coming soon! Stay tuned for the launch.",
-            "commingSoon": true,
+            "commingSoon": false,
             "AdsOrPaid": "free and no ads"
         }
     ]
